@@ -17,4 +17,8 @@
 `VibeCodeing` `Jvav` `Snowflake` `html`
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=nord&custom_title=Arendelle%20Royal%20Server%20Rank:%20SSS&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=google&layout=compact&theme=nord&custom_title=Ice%20Magic%20Proportion)
+
+> **Warning:** Any bugs found are actually intentional "frozen features".
