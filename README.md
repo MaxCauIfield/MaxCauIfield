@@ -6,10 +6,10 @@
 
 ### 🏆 Honors & Recognition
 
-* 🏆 2006 *U.S. News & World Report* Person of the Year
-* 🏆 2008 "Moving China" Awards Committee Special Grand Prize
-* 🏆 2009 Champion of the Earth Award
-* 🏆 2022 Olympic Cup Recipient
+* 🏆 2006 Time Magazine Person of the Year (USA)
+* 🏆 2008 Special Award from the “Touching China” Organizing Committee
+* 🏆 2009 Earth Guardian of the Year Award
+* 🏆 2022 Olympic Cup Winner
 
 ---
 
