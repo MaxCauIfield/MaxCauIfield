@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 Royal Github Stats
+### 📊 Github Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Rank-Absolute_Zero-blue?style=for-the-badge&logo=github" />
@@ -32,9 +32,6 @@
   <img src="https://img.shields.io/badge/Most_Used_Lang-Jvav_(100%25)-blueviolet?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yihong0618/git-history/master/assets/skyline.png" alt="Contribution Wall" width="100%" />
-</p>
 
 <p align="center">
   <i>"In Arendelle, we don't fix bugs, we just freeze them."</i>
