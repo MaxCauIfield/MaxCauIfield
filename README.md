@@ -1,16 +1,19 @@
-## Hi there 👋
+# ❄️ Programmer from Arendelle
 
-<!--
-**MaxCauIfield/MaxCauIfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building cool things in a frozen kingdom. 🧊
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Honors & Recognition
+* 🏆 **2006** TIME Person of Yr
+* 🏆 **2008** Touching China Spl Award
+* 🏆 **2009** Champions of Earth
+* 🏆 **2022** Olympic Cup Winner
+
+---
+
+### 💻 Tech Stack
+`Python` `C++` `Snow-JS` `Frost-Byte`
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord)
