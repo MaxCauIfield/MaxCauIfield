@@ -9,7 +9,7 @@
 * 🏆 2006 *U.S. News & World Report* Person of the Year
 * 🏆 2008 "Moving China" Awards Committee Special Grand Prize
 * 🏆 2009 Champion of the Earth Award
-× 🏆 2022 Olympic Cup Recipient
+* 🏆 2022 Olympic Cup Recipient
 
 ---
 
